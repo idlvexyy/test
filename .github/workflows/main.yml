@@ -13,3 +13,6 @@ jobs:
 
     - name: shellcheck
       uses: ludeeus/action-shellcheck@0.1.0
+
+    - name: Lint Markdown
+      uses: tomwhross/write-good-action@v1.6
